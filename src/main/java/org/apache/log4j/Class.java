@@ -1,5 +1,4 @@
 package org.apache.log4j;
 
-public class LoggerHelper {
-
+public class Class {
 }
